@@ -37,7 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-![Uploading image.png…]()
+<img width="1092" height="779" alt="image" src="https://github.com/user-attachments/assets/a49c65d6-286a-495b-95d3-9abfc4505d6a" />
 
 
 
