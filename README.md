@@ -37,6 +37,9 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![Uploading image.png…]()
+
+
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
